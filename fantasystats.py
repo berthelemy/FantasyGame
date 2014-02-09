@@ -1,3 +1,6 @@
+# Fantasy Game
+# Statistics
+
 print ('Are you ready to go on journey filled with peril and excitement?')
 print ('Good, I have just the quest for you.')
 print ('Now then, my eyes are not as young as they used to be')
