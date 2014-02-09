@@ -90,7 +90,3 @@ while count > 0:
 	print ('Agt: '+str(agility))
 	print ('Int: '+str(intelligence))
 	print ('Dex: '+str(dexterity))
-
-print (myName)
-
-
